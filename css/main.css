@@ -1,0 +1,61 @@
+.h{
+    color: #F00
+}
+.nav-link{
+    position: relative;
+    top: 15px;
+    color: #bddff5;
+}
+.badge{
+    position: relative;
+    top: -15px;
+}
+.fa-shopping-cart{
+    font-size: 30px;
+}
+.banner{
+    width: 100%;
+}
+.card{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    -webkit-box-shadow: 2px 2px 2px 2px #F0F0F0;
+box-shadow: 2px 2px 2px 2px #F0F0F0;
+margin-top: 10px;
+margin-left: 20px;
+margin-bottom: 30px;
+background: #bddff5;
+padding: 20px;
+}
+
+.card1{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    -webkit-box-shadow: 2px 2px 2px 2px #F0F0F0;
+box-shadow: 2px 2px 2px 2px #F0F0F0;
+margin-top: 30px;
+margin-left: 20px;
+margin-right: 20px;
+margin-bottom: 30px;
+background: #bddff5;
+padding: 20px;
+}
+
+.card:hover{
+    -webkit-box-shadow: 3px 3px 3px 3px #666666;
+    box-shadow: 3px 3px 3px 3px #666666;
+}
+
+.card1:hover{
+    -webkit-box-shadow: 3px 3px 3px 3px #666666;
+    box-shadow: 3px 3px 3px 3px #666666;
+}
+
+.footer{
+    background: #000000;
+    color: #ffffff;;
+    text-align: center;
+    padding: 3px;
+}
